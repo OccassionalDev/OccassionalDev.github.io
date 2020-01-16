@@ -1,11 +1,11 @@
 # Site settings
 author: Erica Schimmel
-title: 
+title: A Journey Pursuing Computer Programming
 header-img: img/home-bg.png
 email: ericaschimmel01@gmail.com
 copyright_name: Erica Schimmel
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Never giving up even on the hardest errors
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  OccassionalDev
