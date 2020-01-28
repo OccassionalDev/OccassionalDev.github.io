@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why I Chose to Become a Software Engineer"
-date:       2020-01-26 18:53:42 +0000
+title:      "Why I Chose to Study Software Engineering"
+date:       2020-01-26 13:53:43 -0500
 permalink:  why_i_chose_to_become_a_software_engineer
 ---
 
