@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Data Gem Project - Bassmaster Tournament CLI List"
-date:       2020-02-17 01:13:13 +0000
+date:       2020-02-16 20:13:14 -0500
 permalink:  cli_data_gem_project_-_bassmaster_tournament_cli_list
 ---
 
@@ -68,7 +68,7 @@ def scrape_tournaments
 
 After successfully scraping the data from the table on the website from that, all that was left was to make a menu to allow the user to see a list of the tournaments and get more details about the tournaments. This ended up being the easiest part of the project for me as it was easy to go through and iterate through the objects created for each tournament to display the data. 
 
-Overall, this was a fun project that made me think about how to scrape data differently instead of calling a .css that would find a element by its class. If I were to add anything else to this project, I'd add another menu that would allow the user to see certain tournaments, whether it be through a month of the tournament or the series type. Another thing I could see to improve upon is going back to change = the array storage to making everything stored in a hash to spare the program less time to iterate.
+Overall, this was a fun project that made me think about how to scrape data differently instead of calling a .css that would find a element by its class. If I were to add anything else to this project, I'd add another menu that would allow the user to see certain tournaments, whether it be through a month of the tournament or the series type. Another thing I could see to improve upon is going back to change the array storage to instead having everything stored in a hash to spare the program less time to iterate.
 
 If you want to see my project's full source code [click here](https://github.com/OccassionalDev/bass_tournament_cli).
 
