@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Portfolio Project - Events and Meet Up App"
-date:       2020-04-30 17:41:36 +0000
+date:       2020-04-30 13:41:37 -0400
 permalink:  rails_portfolio_project_-_events_and_meet_up_app
 ---
 
@@ -64,7 +64,7 @@ To keep the date updated all the time, I made a recent_date variable to store th
 
 ```
     def self.search(query)
-        if !query.empty?
+        if  query != ""
             self.where("TITLE LIKE ?", "%#{query}%")
         else 
             self.all
